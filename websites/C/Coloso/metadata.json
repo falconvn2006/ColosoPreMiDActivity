@@ -11,9 +11,15 @@
   },
   "url": "coloso.global",
   "regExp": "^https?[:][/][/]([a-z0-9-]+[.])*coloso[.]global[/]",
+<<<<<<< HEAD
   "version": "1.0.0",
   "logo": "https://i.imgur.com/AZjrJho.jpeg",
   "thumbnail": "https://cdn.coloso.global/us/coloso-opengraph.png",
+=======
+  "version": "1.0.1",
+  "logo": "https://cdn.rcd.gg/PreMiD/websites/C/Coloso/assets/logo.jpeg",
+  "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/C/Coloso/assets/thumbnail.png",
+>>>>>>> 32d9576ca7a2ff3b92d823b8a36a977249908c1c
   "color": "#000000",
   "category": "videos",
   "tags": [
